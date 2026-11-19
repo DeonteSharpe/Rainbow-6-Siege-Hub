@@ -1,20 +1,12 @@
 ---
-title: Category 01
+title: Map Knowledge
 ---
-## The Category 01 category index page
+## Map Knowledge information
 
 ### What is this page?
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-01` folder, which is located within the `content/` folder. 
+Welcome to the Map Guide section of Rainbow 6 Siege Hub! Here, you can explore the different maps available in Rainbow Six Siege and learn what makes each one unique. Every map has its own layout, rooms, entry points, and strategies that can affect how a match plays out. Whether you're attacking or defending, understanding the map can give you an advantage over your opponents.
 
-On your local computer, this page corresponds to the file path: `content/example-category-01/index.md`.
+This section provides information about the maps, including their layouts to help players improve their map knowledge. Whether you're a beginner or an experienced player, learning the maps is an important part of becoming better at Rainbow Six Siege.
 
-### Naming a category page's index
-
-Why is this page's file name `index` (`example-category-01/index.md`) instead of **Category 01**?
-
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 01`). 
-
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
-
-A similar category is [[example-category-02/index | Category 02]], which also uses the `index.md` method to specify a category page title and descriptive text.
+---
