@@ -2,13 +2,13 @@
 title: Tips for Improving Your Rank in Rainbow Six Siege
 ---
 
-# Tips for Improving Your Rank in Rainbow Six Siege
+# What will it do
 
 Improving your rank in Rainbow Six Siege takes practice, patience, and an understanding of how the game works. Many players want to reach higher ranks, but winning consistently requires more than having good aim. Players also need map knowledge, communication skills, and the ability to make smart decisions during matches.
 
 ## Learning the Maps
 
-One of the best ways to improve is by learning the different maps. Knowing the locations of bomb sites, staircases, cameras, and common entry points can help players make better decisions.
+One of the best ways to improve is by learning the different [[Map Knowledge/index|maps]]. Knowing the locations of bomb sites, staircases, cameras, and common entry points can help players make better decisions.
 
 For example, understanding where attackers usually enter a building can help defenders prepare traps or reinforce important walls.
 
@@ -30,4 +30,6 @@ Players should also remember that losing matches is part of the learning process
 
 > Focus on becoming a better player instead of worrying about winning every single match.
 
-Overall, improving your rank requires time and effort. Players who practice regularly, understand the maps, and work with teammates can gradually become more confident and successful in Ranked Mode.
+Overall, improving your rank requires time and effort. Players who practice regularly, understand the maps, and work with teammates can gradually become more confident and successful in Ranked [[Games Modes/index|mode]].
+
+![tips](https://static0.thegamerimages.com/wordpress/wp-content/uploads/2022/11/sledge4.jpg)
