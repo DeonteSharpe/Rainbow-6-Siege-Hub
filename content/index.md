@@ -10,11 +10,11 @@ Here, you can explore different categories, including **Operator Guides, Maps, G
 The goal of Rainbow 6 Siege Hub is to keep information organized, easy to find, and simple to understand. Instead of searching through multiple websites for answers, players can use this hub to explore the topics they're interested in and build their knowledge of Rainbow Six Siege.
 
 > Click down here to visit other pages.
-* [[category-01/index|Map Knowledge]]
-* [[category-02/index|Operator Guide]]
-* [[category-03/index|Game Modes]]
+* [[Map Knowledge/index|Map Knowledge]]
+* [[Operator Guied/index|Operator Guide]]
+* [[Games Modes/index|Game Modes]]
 * [[category-04/index|Competitive Play]]
-* [[category-05/index|Gadgets]]
+* [[Abilities/index|Gadgets]]
 
 ---
 
