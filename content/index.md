@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Rainbow 6 Siege Hub
 ---
 ## The index page
 
