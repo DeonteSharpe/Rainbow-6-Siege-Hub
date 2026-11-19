@@ -13,7 +13,7 @@ The goal of Rainbow 6 Siege Hub is to keep information organized, easy to find, 
 * [[Map Knowledge/index|Map Knowledge]]
 * [[Operator Guied/index|Operator Guide]]
 * [[Games Modes/index|Game Modes]]
-* [[category-04/index|Competitive Play]]
+* [[competitive Play/index|Competitive Play]]
 * [[Abilities/index|Gadgets]]
 
 ---
